@@ -32,8 +32,6 @@ Main Skills:
 
 I'm full time developer.
 
-devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
-
 ## ⚡️ A Few Quick Facts
 
 - 🧐 Always learning about blockchain, smart contracts, and web development.
