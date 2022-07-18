@@ -7,17 +7,22 @@
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋, I'm Stanislav Kohut!
+## Hi 👋
 
-Senior full-stack developer with 10+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
-Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
-Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
-
-Over the course of 10 years I have worked with a vast amount of technologies.
+Passionate Blockchain Developer offering 5+ years of relevant experience in Blockchain. I have
+experience developing DeFi, DEX, DApp, NFT marketplace, Staking platform, Minting platform.
+I am fluent in Solidity, Rust, Golang, Web3.js, Python and JavaScript ,and have worked on a variety
+of projects as a project manager with my friends, helping clients achieve their goals. I am also keen
+on several JavaScript and Python web frameworks like React, Django and Flask I am a life-long
+learner and is looking forward to working on exciting and challenging projects.
+I am continuously trying to improve, learn more and gain new experiences.
+With a strong attention to detail and accuracy and the important ability to function well in a team
+setting.
+Looking for a Blockchain Developer job within a forward-moving company
 
 Main Skills:
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Hooks, React Context, 
+- React, React Native, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
 - Node.js, Express.js, Hapi.js
