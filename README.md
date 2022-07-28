@@ -21,8 +21,10 @@ setting.
 Looking for a Blockchain Developer job within a forward-moving company
 
 Main Skills:
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Native, React Hooks, React Context, 
+- Blockchain, Solana, Solidity, Smart contract (ERC20, ERC721)
+- web3.js, ether.js, Dapp, DAO, Defi, 
+- NFT, NFT marketplace, Opensea, NFT minting, NFT staking
+- Javascript, Typescript, React, React Native, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
 - Node.js, Express.js, Hapi.js
