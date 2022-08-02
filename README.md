@@ -27,6 +27,7 @@ Main Skills:
 - Javascript, Typescript, React, React Native, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
+- Python, PyQT, Django, Flask
 - Node.js, Express.js, Hapi.js
 - PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
