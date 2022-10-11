@@ -20,7 +20,6 @@ learner and is looking forward to working on exciting and challenging projects.
 I am continuously trying to improve, learn more and gain new experiences.
 With a strong attention to detail and accuracy and the important ability to function well in a team
 setting.
-
 Looking for a Blockchain Developer job within a forward-moving company
 
 Main Skills:
