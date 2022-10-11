@@ -11,13 +11,16 @@
 
 Passionate Blockchain Developer offering 5+ years of relevant experience in Blockchain. I have
 experience developing DeFi, DEX, DApp, NFT marketplace, Staking platform, Minting platform.
+
 I am fluent in Solidity, Rust, Golang, Web3.js, Python and JavaScript ,and have worked on a variety
 of projects as a project manager with my friends, helping clients achieve their goals. I am also keen
 on several JavaScript and Python web frameworks like React, Django and Flask I am a life-long
 learner and is looking forward to working on exciting and challenging projects.
+
 I am continuously trying to improve, learn more and gain new experiences.
 With a strong attention to detail and accuracy and the important ability to function well in a team
 setting.
+
 Looking for a Blockchain Developer job within a forward-moving company
 
 Main Skills:
